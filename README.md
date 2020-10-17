@@ -1,2 +1,2 @@
-# balajisgupta123.github.io
+# Sampler
 Projects for me
