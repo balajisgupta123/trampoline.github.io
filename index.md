@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## How can Sherlock Holmes be best described in words
+Sherlock Holmes has a unique personality. He is known for his Unique Charisma and possesses to be a very curious mentor for his readers. And as this great personality's character can't be described in few words, so please allow me to detail you with some characteristics of Sherlock Holmes.
 
-You can use the [editor on GitHub](https://github.com/balajisgupta123/balajisgupta123.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Sherlock Holmes may not be in reality, but Sir Arthur Conan Doyle writes his stories in such a way which makes his reader feel as though Mr. Sherlock Holmes is standing in front of the reader. He knows how to describe the events in order to attract reader's attention and this is the reason why he is regarded as one of the most appealing storytellers
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are 4 novels and 56 short stories comprised in 5 books written by Sir A. Conan Doyle which Feature Sherlock Holmes as main Character and Dr. John H. Watson as his only friend who is always eager to know about his friend's methods of solving mysteries and reaching to deductions. Also, there are books written by other writers on Sherlock Holmes. All books on Sherlock Homes written by Sir A. Conan Doyle is narrated by his only friend John Watson. Sherlock Holmes in books describes himself as a "Consulting Detective which is famous rather not to be found anywhere else than his books. Sherlock Holmes has a lot of reader because he succeeds in solving almost every possible case submitted to him by his clients. In his first book 'A Study in Scarlet', it can be seen that these two friends meet each other when Watson comes from the War in Afghanistan and asks one of his friend if he can find anyone who would like to live with Watson and share the rent equally by living as tenants and ergo finds Sherlock Holmes
 
-### Markdown
+### Theme Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/balajisgupta123/balajisgupta123.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact Me
+Email me at: balajisgupta123@gmail.com or balajisgupta108@gmail.com
